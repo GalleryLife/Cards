@@ -6,6 +6,7 @@
 
 - Clone this repo
 - npm install
+- json-server db.json (in server folder)
 - npm run start
 
 ## Technology
